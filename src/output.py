@@ -45,6 +45,5 @@ if __name__== "__main__":
     print("Total_Transaction_Details:",transactions2.get_transaction_details())
     print("Total_Transaction_Details:",transactions3.get_transaction_details())
 
-    Trans=[]
-    print(Trans.append(f"Transaction ID: {self.transaction_id}\nSource Account: {self.source_account}\nDestination Account: {self.destination_account}\nAmount: ${self.amount:.2f}\nTimestamp: {self.timestamp}")) 
-    return Trans
+    print(trans_hist.append)
+    print("hello")
